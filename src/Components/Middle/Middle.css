@@ -1,0 +1,15 @@
+.Middle-text{
+    display: flex;
+    justify-content: center;
+}
+.paragraph{
+    font-size: 10px;
+}
+
+@media(max-width:780px){
+    .Middle-text{
+        display: flex;
+        justify-content: center;
+    }
+    
+}

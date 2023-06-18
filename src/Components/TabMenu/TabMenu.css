@@ -1,0 +1,24 @@
+.Tabscontent{
+    font-size: 12px;
+    border: 1px solid #969090;
+}
+.Tabs{
+    font-size: 12px;
+}
+.img{
+    width:40px;
+    height: 40px;
+}
+.txt-one{
+    font-size: 11px;
+    font-weight: bold;
+    padding-top: 8px;
+}
+.txt-two{
+    font-size: 10px;
+    font-style: italic;
+}
+.txt{
+    font-size: 11px;
+    padding: 0;
+}

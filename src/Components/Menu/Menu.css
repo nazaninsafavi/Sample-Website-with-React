@@ -1,0 +1,22 @@
+.material-icons{
+    vertical-align: center;
+    justify-content: center;
+    padding: 5px 5px;
+    font-size: 12px;
+}
+.NavItem{
+    font-size: 12px;
+}
+.NavbarOne{
+    background-color: blueviolet;
+    color: white;
+}
+.Navlink{
+    color:white;
+}
+
+@media(min-width:767.9px){
+   .MainNav{
+    padding-left: 230px;
+   }
+}

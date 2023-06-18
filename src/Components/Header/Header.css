@@ -1,0 +1,18 @@
+.Head-one{
+    font-size: 35px;
+    font-weight: bold;
+    margin-top:15px;
+    padding-left:230px;
+}
+.text-one{
+    padding-left:230px;
+}
+
+@media(max-width:767.9px){
+    .Head-one,.text-one{
+        display: flex;
+        justify-content: center;
+        padding-left:0;
+    }
+ }
+
