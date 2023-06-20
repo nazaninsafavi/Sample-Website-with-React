@@ -12,7 +12,7 @@ export default class Slide extends Component {
               <div>
                 <img
                   className="d-block w-100 slide-img"
-                  src="weiler-photography-3.jpg"
+                  src="./weiler-photography-3.jpg"
                   alt="First slide"
                   />
                   <div className='left-one'>
