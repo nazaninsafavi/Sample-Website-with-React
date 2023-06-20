@@ -1,0 +1,30 @@
+.App {
+  text-align: center;
+}
+
+.content{
+  display: flex;
+  justify-content: center;
+  padding: 20px 10px;
+}
+.First-Nav{
+  display: flex;
+  justify-content: center;
+}
+
+#line{
+  margin-left: 150px;
+  margin-right: 150px;
+}
+
+.footcontent{
+  padding-left: 120px;
+  padding-right: 120px;
+}
+@media(max-width:600px){
+  .row{
+    padding-left:0;
+    padding-right: 0;
+  }
+}
+
